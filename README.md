@@ -7,9 +7,10 @@ Será feito cálculo do IMC de idosos com:
 >Organização dos registros
 
 exemplo:
+nome do idoso = joão
 entrada do peso = 60
 entrada altura = 1,60
-IMC = 
+IMC = 23,4 saudável
 
 --------------------------------------------------------------------------
 ```java
